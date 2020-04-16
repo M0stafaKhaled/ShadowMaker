@@ -1,6 +1,6 @@
 {
   "name": "shadowmaker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get perfect shadow every time for the no-designer.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/M0stafaKhaled/ShadowMaker/issues"
   },
-  "homepage": "https://github.com/M0stafaKhaled/ShadowMaker#Readme"
+  "homepage": "https://github.com/M0stafaKhaled/ShadowMaker#readme"
 }
