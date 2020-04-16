@@ -1,6 +1,6 @@
 {
-  "name": "shadowmaker",
-  "version": "1.0.4",
+  "name": "shadow_maker",
+  "version": "1.0.0",
   "description": "Get perfect shadow every time for the no-designer.",
   "main": "index.js",
   "scripts": {

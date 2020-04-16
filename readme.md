@@ -4,7 +4,7 @@ Get perfect shadow every time for the no-designer.
 
 # Installation
 
-`npm i shadowmaker --save`
+`npm i shadow_maker --save`
 Then...
 
 ```
