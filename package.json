@@ -1,6 +1,6 @@
 {
   "name": "shadowmaker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get perfect shadow every time for the no-designer.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/M0stafaKhaled/Shadowizard.git"
+    "url": "https://github.com/M0stafaKhaled/ShadowMaker"
   },
   "author": "mostafaKhaled",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/M0stafaKhaled/Shadowizard/issues"
+    "url": "https://github.com/M0stafaKhaled/ShadowMaker/issues"
   },
-  "homepage": "https://github.com/M0stafaKhaled/Shadowizard#readme"
+  "homepage": "https://github.com/M0stafaKhaled/ShadowMaker#Readme"
 }
