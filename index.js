@@ -1,4 +1,4 @@
-function shadowwizard(options) {
+function shadowmaker(options) {
   let images = document.queruSelectorAll(".shadowwizard");
   if (options.shadow_type == "hard") options.shadow_type = "0px";
   else options.shadow_type = "15px";
@@ -11,4 +11,4 @@ function shadowwizard(options) {
     }
   });
 }
-module.exports.shadowwizard = shadowwizard;
+module.exports.shadowmaker = shadowmaker;

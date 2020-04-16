@@ -4,12 +4,12 @@ Get perfect shadow every time for the no-designer.
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i shadowmaker --save`
 Then...
 
 ```
-import{shadowizard} from 'shadowizard';
-shadowizard(({
+import{shadowmaker} from 'shadowmaker';
+shadowmaker(({
 shadow_type:'soft',
 padding:false
 }));
