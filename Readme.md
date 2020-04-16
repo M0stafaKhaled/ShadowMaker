@@ -1,1 +1,1 @@
- init readme 
+ # NPM pakage
